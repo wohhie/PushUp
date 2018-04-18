@@ -25,6 +25,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void testMethode2(){
-        Log.e("Updated2", "Completed2.");
+        Log.e("Updated2", "Completed2. Weccc");
     }
 }
