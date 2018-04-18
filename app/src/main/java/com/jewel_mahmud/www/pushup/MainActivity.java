@@ -17,5 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void SampleMethod(int i){
         i = i + 1;
+        i = 100;
+        i = i + 1;
+        i = i + 1;
     }
 }
