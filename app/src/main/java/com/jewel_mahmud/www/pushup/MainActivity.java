@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.e("Updated", "Completed. qqweqw Wohhie Mahmud qweqwe");
+        Log.e("Updated", "Completed. qqweqw wqewqe qweqw qwe e Wohhie Mahmud qweqwe");
 
 
     }
