@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.e("Updated", "Completed. qqweqw wqewqe qweqw qwe e Wohhie Mahmud qweqwe");
+        Log.e("Updated", "");
 
 
     }
@@ -22,5 +22,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void testMethode1(){
         Log.e("Updated1", "Completed1 we ewqe.");
+    }
+
+    public void testMethode2(){
+        Log.e("Updated2", "Completed2.");
     }
 }
